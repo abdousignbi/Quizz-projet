@@ -1,0 +1,75 @@
+
+.login-box
+{
+    height: 700px;
+    width: 100%;
+    border: 1px solid grey;
+    margin-left: 0%;
+    margin-top: 2%;
+    position: relative;
+      box-shadow: 21px 12px 24px 10px rgba(0, 0, 0, .5);
+      background: #c4c4c4;
+}
+.login-header
+{
+    text-align: center;
+    font-family: "vardhana",cursive;
+    font-size: 35px;
+    background: #c90017;
+    color:#ffffff;
+    position: relative;
+      box-shadow: 1px 3px 14px  rgba(0, 0, 0, .5);
+}
+
+.login-body
+{
+    padding: 20px;
+    line-height: 2;
+    color:#c90017;
+}
+#sene{
+    margin-left: 42%;
+}
+
+
+.form-control{
+    background: #c4c4c4;
+}
+.login-box
+  {
+      height: 700px;
+      width: 100%;
+      border: 1px solid grey;
+      margin-left: 0%;
+      margin-top: 2%;
+      position: relative;
+        box-shadow: 21px 12px 24px 10px rgba(0, 0, 0, .5);
+        background: #ffffff;
+  }
+  .login-header
+  {
+      text-align: center;
+      font-family: "vardhana",cursive;
+      font-size: 35px;
+      background: #c90017;
+      color:#ffffff;
+      position: relative;
+        box-shadow: 1px 3px 14px  rgba(0, 0, 0, .5);
+  }
+  
+  .login-body
+  {
+      padding: 20px;
+      line-height: 2;
+      color:#c90017;
+  }
+  #baba{
+      margin-left: 42%;
+  }
+  #signbi{
+      margin-top:6px;
+  }
+  
+  
+
+

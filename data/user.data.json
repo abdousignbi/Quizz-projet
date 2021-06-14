@@ -1,0 +1,114 @@
+[
+    {
+        "action": "inscription",
+        "nom": "kjeifoj",
+        "prenom": "pkpeortopi",
+        "mail": "sene@gmail.com",
+        "motpass": "489798789",
+        "inscrir": "",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "action": "inscription",
+        "nom": "abdou",
+        "prenom": "sene",
+        "mail": "sene@gmail.com",
+        "motpass": "489798789",
+        "inscrir": ""
+    },
+    {
+        "action": "inscription",
+        "nom": "abdou",
+        "prenom": "sene",
+        "mail": "sene@gmail.com",
+        "motpass": "489798789",
+        "inscrir": ""
+    },
+    {
+        "action": "inscription",
+        "nom": "reopoijij",
+        "prenom": "iioredioir",
+        "mail": "kaka@gmail.com",
+        "motpass": "8784545",
+        "inscrir": ""
+    },
+    {
+        "nom": "sene",
+        "prenom": "abdou",
+        "mail": "kaka@gmail.com",
+        "motpass": "ktoioyt",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "ksdjgoidj",
+        "prenom": "lkjtgfjg",
+        "mail": "sene@gmail.com",
+        "motpass": "oiretu",
+        "test_png": "d598b61b0274483394d36f9c4c149d4c.mp4",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "jsdhg",
+        "prenom": "jfiigriti",
+        "mail": "kaka@gmail.com",
+        "motpass": "ktoioyt4",
+        "test_png": "d598b61b0274483394d36f9c4c149d4c.mp4",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "kopdhpo",
+        "prenom": "optkopkruopr",
+        "mail": "famara@gmail.com",
+        "motpass": "uehuhruei",
+        "test_png": "d598b61b0274483394d36f9c4c149d4c.mp4",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "ze",
+        "prenom": "euz",
+        "mail": "kaka@gmail.com",
+        "motpass": "ktoioyt",
+        "test_png": "",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "krhteujrt",
+        "prenom": "oiejziotio",
+        "mail": "kaka@gmail.com",
+        "motpass": "ktoioyt",
+        "test_png": "",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "abdou",
+        "prenom": "sene",
+        "mail": "kaka@gmail.com",
+        "motpass": "ktoioyt",
+        "test_png": "",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "abdou",
+        "prenom": "sene",
+        "mail": "kaka@gmail.com",
+        "motpass": "ktoioyt",
+        "test_png": "",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "sene",
+        "prenom": "abdou",
+        "mail": "sene@gmail.com",
+        "motpass": "oiretu",
+        "test_png": "d598b61b0274483394d36f9c4c149d4c.mp4",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "sene",
+        "prenom": "abdou",
+        "mail": "sene@gmail.com",
+        "motpass": "uhruethuer",
+        "test_png": "IMG-20200917-WA0023.jpg",
+        "role": "ROLE_ADMIN"
+    }
+]
